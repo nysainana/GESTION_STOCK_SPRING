@@ -1,8 +1,8 @@
-## GESTION DE STOCK
+# GESTION DE STOCK
 Ce projet a pour but de gerer les stocks des ventes.
 Ce repository est le projet backend. Crée avec spring boot 3.
 
-### Configuration
+## Configuration
 
 Installation des dépendances
 ```
@@ -10,7 +10,7 @@ mvn install
 ```
 
 
-### Requirements
+## Requirements
 
 - Java 17
 
